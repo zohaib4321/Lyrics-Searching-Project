@@ -59,7 +59,7 @@ h2 {
 	width: 50%;
 }
 
-.box h2 {
+.box h3 {
 	text-align: center;
 }
 
@@ -87,6 +87,11 @@ ul.songs li {
 	}
 
 	#searchBox {
-		width: 100%;
+		width: 96%;
 	}
+
+	ul.songs li{
+		padding: 0 12px;
+	}
+	
 }
