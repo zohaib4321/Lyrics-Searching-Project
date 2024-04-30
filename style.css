@@ -84,7 +84,6 @@ ul.songs li {
 @media screen and (max-width: 768px) {
 	.box {
 		width: 100%;
-		background-color: cadetblue;
 	}
 
 	#searchBox {
